@@ -11,7 +11,7 @@ async function sendMessages() {
       y: Math.random(),
       clientID: index
     });
-    console.log("[GENERATOR] Emit => Cordinate sended to client " + index + ".");
+    console.log("[GENERATOR] Emit => Coordinate sended to client " + index + ".");
     await delay(100);
   }
 }
