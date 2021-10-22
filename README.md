@@ -27,6 +27,6 @@ yarn generator
 
 Exemplo organizado para começar e entender o funcionamento de um WebSocket utilizando o [Socket.io](https://socket.io/). Neste exemplo existe um server que recebe e repassa em tempo real as mensagens de coordenadas recebidas dos clientes conectados filtrando por um clientID que é enviado por um gerador de coordenadas.
 
-#### Author
+#### Autor
 
 * [Henrique Zolini](https://instagram.com/henriquezolini)
