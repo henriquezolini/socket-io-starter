@@ -14,10 +14,6 @@ Instale
 ```bash
 yarn
 ```
-ou
-```bash
-npm i
-```
 
 Abra 3 terminais e execute nesta ordem respectivamente:
 
