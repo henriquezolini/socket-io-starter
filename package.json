@@ -1,0 +1,22 @@
+{
+  "name": "g-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon src/server.js",
+    "generator": "nodemon src/generator.js",
+    "client": "nodemon src/client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "socket.io": "^4.2.0",
+    "socket.io-client": "^4.2.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
