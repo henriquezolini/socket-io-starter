@@ -29,4 +29,4 @@ Exemplo organizado para começar e entender o funcionamento de um WebSocket util
 
 #### Autor
 
-[Henrique Zolini](https://instagram.com/henriquezolini)
+[Henrique Zolini](https://henriquezolini.com/)
